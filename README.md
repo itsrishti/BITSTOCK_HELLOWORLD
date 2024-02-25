@@ -22,7 +22,7 @@
 
 
 ## Screenshots🖼️
-#### *Website:*
+### *Website:*
 
 <img src="https://github.com/itsrishti/BITSTOCK_HELLOWORLD/assets/123953052/5dc88efa-13af-42c9-a5c9-f7539b0a3812" width= 900px />
 <tr> 
@@ -34,7 +34,23 @@
  <td> <img src="https://github.com/itsrishti/BITSTOCK_HELLOWORLD/assets/123953052/a45c228b-8a7e-4928-8996-fab328ea0be8" width=500px></td> </tr> 
 
  
+### *Android:*
+
+<img src="https://github.com/itsrishti/BITSTOCK_HELLOWORLD/assets/153757431/c39556a8-b08d-4093-82ea-1e2511b0cc19" width=200px /> 
+<img src= "https://github.com/itsrishti/BITSTOCK_HELLOWORLD/assets/153757431/56a528b4-a12f-4c3f-b4df-0de2fd7645ed" width=200px />
+<img src="https://github.com/itsrishti/BITSTOCK_HELLOWORLD/assets/153757431/9f2c0874-db15-430c-a990-826ee3b0b34b" width=200px />
+<img src="https://github.com/itsrishti/BITSTOCK_HELLOWORLD/assets/153757431/a9e29dd0-e16c-4e1b-b9c2-f272a7da8549" width=200px />
+<img src="https://github.com/itsrishti/BITSTOCK_HELLOWORLD/assets/153757431/eae2a904-6bf9-4783-a574-69586ed2f5b5" width=200px />
 
 
+
+
+
+## *Demo Video:*
+[Click here](https://youtu.be/OfxN9neX3J8) to view the video.
+
+
+
+<hr>
 
 ## This Project was made by team *Hello World!💻*
